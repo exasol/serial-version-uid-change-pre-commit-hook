@@ -1,4 +1,4 @@
-# Pre-commit hooks
+# Pre-commit Hooks
 
 This repository contains [pre-commit](https://pre-commit.com/) hooks developed for Exasol projects.
 Each hook defines a check that pre-commit automatically installs and runs before each commit.

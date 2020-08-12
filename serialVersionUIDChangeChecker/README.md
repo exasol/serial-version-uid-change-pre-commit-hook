@@ -1,4 +1,4 @@
-# serialVersionUID change checker
+# SerialVersionUID Change Checker
 
 This [pre-commit](https://pre-commit.com/) checks requires the serialVersionUID to be changed if the containing file was changed.
 If a change is not required, simply add or remove an empty comment in the line of the serialVersionUID.
