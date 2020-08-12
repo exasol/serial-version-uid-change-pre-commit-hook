@@ -1,0 +1,7 @@
+-   id: serial-version-uid
+    name: serialVersionUID change checker
+    description: Shows a warning if a file was changed but serialVersionUID was not.
+    entry: serialVersionUIDChangeChecker
+    language: python
+    types: [text]
+    pass_filenames: false
