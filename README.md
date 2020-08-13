@@ -9,9 +9,10 @@ Each hook defines a check that pre-commit automatically installs and runs before
  
  Checkout the [pre-commit website](https://pre-commit.com/hooks.html) for a list of other pre-commit hooks.
  
- ## Usage
+## How to Use
  
  [User Guide](doc/user_guide/user_guide.md)
+
 
   
  

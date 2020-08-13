@@ -15,4 +15,4 @@ Add the following lines to your `.pre-commit-config.yaml`:
 
 ## Limitations
 
-This script does only check on a file system level. Accordingly it does may produce false positives in case a single file contains multiple classes (e.g a nested Exception class). 
+This script does only check on a file system level. Accordingly, it may produce false positives in case a single file contains multiple classes (e.g a nested Exception class). 
